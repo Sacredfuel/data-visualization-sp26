@@ -7,7 +7,7 @@ chapters:
 #   title: Classwork
 - file: notebooks/assignments
   title: Programs
-  sections:
+- file: lectures/lecture1
   # - file: notebooks/assignment1
   #   title: Program 1
   # - file: notebooks/assignment2
