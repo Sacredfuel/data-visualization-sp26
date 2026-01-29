@@ -1,0 +1,33 @@
+format: jb-book
+root: notebooks/home
+chapters:
+- file: notebooks/syllabus
+  title: Syllabus
+# - file: notebooks/classwork
+#   title: Classwork
+- file: notebooks/assignments
+  title: Programs
+  sections:
+  # - file: notebooks/assignment1
+  #   title: Program 1
+  # - file: notebooks/assignment2
+  #   title: Program 2
+  # - file: notebooks/assignment3
+  #   title: Program 3
+  # - file: notebooks/assignment4
+  #   title: Program 4
+  # - file: notebooks/assignment5
+  #   title: Program 5
+  # - file: notebooks/assignment6
+  #   title: Program 6 (optional)
+# - file: notebooks/project
+#   title: Project
+# - file: notebooks/final_exam
+#   title: Final Exam Review
+#   sections:
+#   - file: notebooks/case_study_mock
+#     title: Code Questions Review
+#   - file: notebooks/final_exam_review
+#     title: Written Questions Review
+# - file: notebooks/final_code_exam
+#   title: Final Code Exam

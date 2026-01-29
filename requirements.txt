@@ -1,0 +1,7 @@
+# Pin Jupyter Book to a stable version known to produce _build/html reliably
+notebook==7.5.3
+jupyter-book==2.1.1
+jupyterlab_rise==0.43.1
+rise==5.7.1
+matplotlib
+numpy
