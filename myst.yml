@@ -14,5 +14,5 @@ site:
     # banner: "Welcome to hell"
     # hide_footer_links: true
   #   favicon: favicon.ico
-    logo: logo.png
-    logo_dark: logo_dark.png
+    logo: logo.jpg
+    # logo_dark: logo_dark.png
