@@ -21,6 +21,10 @@ chapters:
     title: Lecture 3
   - file: lectures/lecture4
     title: Lecture 4
+  - url: https://sacredfuel.github.io/workshops/tsa-notebooks/components.html
+    title: Lecture 5
+  - file: lectures/lecture6
+    title: Lecture 6
   # - file: notebooks/assignment2
   #   title: Program 2
   # - file: notebooks/assignment3
