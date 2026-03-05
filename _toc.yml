@@ -27,6 +27,8 @@ chapters:
     title: Lecture 6
   - file: lectures/lecture7
     title: Lecture 7
+  - file: lectures/lecture8
+    title: Lecture 8
   # - file: notebooks/assignment2
   #   title: Program 2
   # - file: notebooks/assignment3
