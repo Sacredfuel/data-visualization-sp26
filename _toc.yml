@@ -10,6 +10,8 @@ chapters:
   sections:
   - file: notebooks/assignment1
     title: Program 1
+  - file: notebooks/assignment2
+    title: Program 2
 - file: lectures/lectures
   title: Lectures
   sections:
