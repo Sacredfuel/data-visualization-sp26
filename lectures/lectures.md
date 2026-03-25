@@ -14,3 +14,4 @@ This page lists the lecture notebooks.
 - [Lecture 10](lecture10)
 - [Lecture 11](https://observablehq.com/d/20335793c5a72f28)
 - [Lecture 12](https://observablehq.com/d/74bb73308d7d7eba)
+- [Lecture 13](https://observablehq.com/d/b96acd59651b8453)
