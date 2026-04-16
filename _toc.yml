@@ -53,8 +53,8 @@ chapters:
   #   title: Program 5
   # - file: notebooks/assignment6
   #   title: Program 6 (optional)
-# - file: notebooks/project
-#   title: Project
+- file: notebooks/project
+  title: Project
 # - file: notebooks/final_exam
 #   title: Final Exam Review
 #   sections:

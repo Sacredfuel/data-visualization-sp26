@@ -65,7 +65,7 @@ Writing exam: more details to come ...
  <!-- will be given during finals week on the day and time assigned by the registrar.The written final exam is required and is comprehensive, covering all the material of the course. Sample exam questions will be available during the last weeks of the term. -->
 
 **Project**:
-A final project is optional for this course. The grade for the project is a combination of grades earned on the milestones (e.g. deadlines during the semester to keep the projects on track) and the overall submitted program. If you choose not to complete the project, your final exam grade will replace its portion of the overall grade. 
+A final project is required for this course. The grade for the project is a combination of grades earned on the milestones (e.g. deadlines during the semester to keep the projects on track) and the overall submitted program.
 
 <!-- More details can be found on the [project page](project.ipynb).  -->
 
@@ -73,10 +73,10 @@ A final project is optional for this course. The grade for the project is a comb
 
 - Participation: 10%
 - Programming Assignments: 20%
-- Optional Project: 25% (if you choose not to do the project, the final exam replaces the grade)
+- Project: 25% 
 - Exams:
 	- Midterm Exam: 20%
-	- Final Exam: 25% (or 50% if you choose not to do the optional project)
+	- Final Exam: 25%
 <!-- - Extra Credit (optional):
   - Up to 5% extra credit can be earned via [pandas 30 days of code challenge](https://leetcode.com/problemset/pandas/)
   - 32 total exercises with premium membership (locked symbol), but for regular free membership, there are 27 exercises available. The total extra credit will be earned by the 27 exercises not 32 questions. -->
