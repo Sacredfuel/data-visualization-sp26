@@ -51,6 +51,8 @@ chapters:
     title: Lecture 16
   - url: https://observablehq.com/d/2ea7cce2f6044d5d
     title: Lecture 17
+  - file: lectures/lecture18
+    title: Lecture 18
   # - file: notebooks/assignment2
   #   title: Program 2
   # - file: notebooks/assignment3
