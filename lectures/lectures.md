@@ -22,3 +22,4 @@ This page lists the lecture notebooks.
 - [Lecture 18](lecture18)
 - [Lecture 19](lecture19)
 - [Lecture 20](lecture20)
+- [Lecture 21](lecture21)
