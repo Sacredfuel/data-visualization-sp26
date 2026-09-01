@@ -3,7 +3,7 @@
 ## CSci 39579: Introduction to Data Visualization
 
 **Department of Computer Science, Hunter College, City University of New York**  
-**Spring 2026**
+**Fall 2026**
 
 ---
 
@@ -13,7 +13,7 @@
 
 **Prerequisites:** CSci 235, and one of: Math 160 or Math 260.
 
-**Instructor:** [Ryan Vaz](mailto:rv846@hunter.cuny.edu) **Office hour:** 4.00PM - 5.00PM TuTh North 1008 or by appointment 
+**Instructor:** [Ryan Vaz](mailto:rv846@hunter.cuny.edu) **Office hour:**: by appointment 
 
 ---
 
@@ -21,7 +21,7 @@
 
 **Course Format:**
 
-- Synchronous in-person lectures are each Tuesdays and Thursday, 7:00pm-8:15pm at North 1001E
+- Synchronous in-person lectures are each Tuesdays and Thursday, 7:00pm-8:15pm at North 1001D
 <!-- - Individual programming assignments and (optional) cumulative project -->
 - Midterm examination during lecture and final examination during the registrar-assigned time slot during finals week
 

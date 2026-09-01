@@ -5,60 +5,60 @@ chapters:
   title: Syllabus
 # - file: notebooks/classwork
 #   title: Classwork
-- file: notebooks/assignments
-  title: Programs
-  sections:
-  - file: notebooks/assignment1
-    title: Program 1
-  - file: notebooks/assignment2
-    title: Program 2
-  - file: notebooks/assignment3
-    title: Program 3
+# - file: notebooks/assignments
+#   title: Programs
+#   sections:
+#   - file: notebooks/assignment1
+#     title: Program 1
+#   - file: notebooks/assignment2
+#     title: Program 2
+#   - file: notebooks/assignment3
+#     title: Program 3
 - file: lectures/lectures
   title: Lectures
   sections:
   - file: lectures/lecture1
     title: Lecture 1
-  - file: lectures/lecture2
-    title: Lecture 2
-  - file: lectures/lecture3
-    title: Lecture 3
-  - file: lectures/lecture4
-    title: Lecture 4
-  - url: https://sacredfuel.github.io/workshops/tsa-notebooks/components.html
-    title: Lecture 5
-  - file: lectures/lecture6
-    title: Lecture 6
-  - file: lectures/lecture7
-    title: Lecture 7
-  - file: lectures/lecture8
-    title: Lecture 8
-  - file: lectures/lecture9
-    title: Lecture 9
-  - file: lectures/lecture10
-    title: Lecture 10
-  - url: https://observablehq.com/d/20335793c5a72f28
-    title: Lecture 11
-  - url: https://observablehq.com/d/74bb73308d7d7eba
-    title: Lecture 12
-  - url: https://observablehq.com/d/b96acd59651b8453
-    title: Lecture 13
-  - url: https://observablehq.com/d/6c2b6051a8415679
-    title: Lecture 14
-  - file: lectures/lecture15
-    title: Lecture 15
-  - url: https://observablehq.com/d/adcf1dfdadecdda3
-    title: Lecture 16
-  - url: https://observablehq.com/d/2ea7cce2f6044d5d
-    title: Lecture 17
-  - file: lectures/lecture18
-    title: Lecture 18
-  - file: lectures/lecture19
-    title: Lecture 19
-  - file: lectures/lecture20
-    title: Lecture 20
-  - file: lectures/lecture21
-    title: Lecture 21
+  # - file: lectures/lecture2
+  #   title: Lecture 2
+  # - file: lectures/lecture3
+  #   title: Lecture 3
+  # - file: lectures/lecture4
+  #   title: Lecture 4
+  # - url: https://sacredfuel.github.io/workshops/tsa-notebooks/components.html
+  #   title: Lecture 5
+  # - file: lectures/lecture6
+  #   title: Lecture 6
+  # - file: lectures/lecture7
+  #   title: Lecture 7
+  # - file: lectures/lecture8
+  #   title: Lecture 8
+  # - file: lectures/lecture9
+  #   title: Lecture 9
+  # - file: lectures/lecture10
+  #   title: Lecture 10
+  # - url: https://observablehq.com/d/20335793c5a72f28
+  #   title: Lecture 11
+  # - url: https://observablehq.com/d/74bb73308d7d7eba
+  #   title: Lecture 12
+  # - url: https://observablehq.com/d/b96acd59651b8453
+  #   title: Lecture 13
+  # - url: https://observablehq.com/d/6c2b6051a8415679
+  #   title: Lecture 14
+  # - file: lectures/lecture15
+  #   title: Lecture 15
+  # - url: https://observablehq.com/d/adcf1dfdadecdda3
+  #   title: Lecture 16
+  # - url: https://observablehq.com/d/2ea7cce2f6044d5d
+  #   title: Lecture 17
+  # - file: lectures/lecture18
+  #   title: Lecture 18
+  # - file: lectures/lecture19
+  #   title: Lecture 19
+  # - file: lectures/lecture20
+  #   title: Lecture 20
+  # - file: lectures/lecture21
+  #   title: Lecture 21
   # - file: notebooks/assignment2
   #   title: Program 2
   # - file: notebooks/assignment3
