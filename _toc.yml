@@ -1,8 +1,6 @@
 format: jb-book
 root: notebooks/syllabus
 chapters:
-- file: notebooks/syllabus
-  title: Syllabus
 # - file: notebooks/classwork
 #   title: Classwork
 # - file: notebooks/assignments
