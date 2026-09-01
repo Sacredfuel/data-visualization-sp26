@@ -6,17 +6,17 @@ title: Schedule
 
 ## CSci 39579: Introduction to Data Visualization
 **Department of Computer Science** ([Hunter College](https://hunter.cuny.edu), [City University of New York](https://www.cuny.edu))  
-**Spring 2026**
+**Fall 2026**
 
 ---
 
-### Calendar (Tentative schedule, subject to change)
+<!-- ### Calendar (Tentative schedule, subject to change)
 
 | Week   | Date                   | Topics & Coverage                           | 
 --------|------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Week 0 | Tuesday, 27 January      | Syllabus & Class Overview  |  — |
 | Week 1 | Thursday, 29 January   | Analytics building blocks; Data Collection; SQLite;  |  
- | Week 2 | Tuesday, 3 Febuary <br><br><br> Thursday, 5 Febuary  | InfoViz; Plotly; VEGA; Altair; <br><br> Marks and Channels; Transformations; Bar vs Line; Temporal Data; |
+ | Week 2 | Tuesday, 3 Febuary <br><br><br> Thursday, 5 Febuary  | InfoViz; Plotly; VEGA; Altair; <br><br> Marks and Channels; Transformations; Bar vs Line; Temporal Data; | -->
 
 <!-- |     | Wednesday, 17 September  | —                                                                                                                                                         | Program 1 Due| 
 | Week 3 | Mon&Thurs, 15&18 September | Multiple Linear Regression; Missing Value Imputation; Feature Engineering; Joining & Transforming Data; Python Recap (list comprehensions, zip)           | [DS 100: Chapter 6 (DataFrames)](https://learningds.org)<br> [DS 100: Chapter 9 (Data Wrangling)](https://learningds.org)<br> [DS 100: Chapter 15 (Linear Models)](https://learningds.org)<br> [Think CS: Section 10.23 (List Comprehensions)](https://runestone.academy/ns/books/published/thinkcspy/index.html)<br> [Zip Tutorial (RealPython)](https://realpython.com/) |

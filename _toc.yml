@@ -1,5 +1,5 @@
 format: jb-book
-root: notebooks/home
+root: notebooks/syllabus
 chapters:
 - file: notebooks/syllabus
   title: Syllabus
