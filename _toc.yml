@@ -17,8 +17,8 @@ chapters:
   sections:
   - file: lectures/lecture1
     title: Lecture 1
-  # - file: lectures/lecture2
-  #   title: Lecture 2
+  - file: lectures/lecture2
+    title: Lecture 2
   # - file: lectures/lecture3
   #   title: Lecture 3
   # - file: lectures/lecture4

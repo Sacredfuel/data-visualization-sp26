@@ -84,7 +84,7 @@ A final project is required for this course. The grade for the project is a comb
 **Emergencies:**
 
 - Drop the lowest programming grade
-- Replace low or missing grades on the midterm, classwork participation and project with your final exam grade
+- Replace low or missing grades on the midterm with your final exam grade.
 
 To respect your privacy, there is no need to provide documentation to take advantage of the dropping/replacing grades policies. It is done automatically. See individual sections above for details. If you are going to miss more than 2 weeks of class and associated work, contact us, so we can make arrangements for you to take the course in a future term.
 
